@@ -1,4 +1,4 @@
 This is a new file.
-Add second commit.
-feature3 add first changes.
+Add second commit. feature3
+feature3 add first changes and third changes.
 feature3 add second changes.
